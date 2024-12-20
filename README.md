@@ -2,7 +2,7 @@
 - 👀 I’m interested in Basket-ball | Programming | Technology
 - 🌱 I’m currently learning NodeJs | Restfull Api & Microservices
 -     I have skills in NextJs | React | NodeJs | JavaScript | SQL| MariaDB
-- 📫 How to reach me :jeanpierrepeterson00@gmail.com | jeanpierrepeterson01@gmail.com
+- 📫 How to reach me :peterjp004@gmail.com | jeanpierrepeterson01@gmail.com
 
 <!---
 peterjp001/peterjp001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
