@@ -1,10 +1,34 @@
-- 👋 Hi, I’m JEAN PIERRE Louis Peterson | @peterjp001
-- 👀 I’m interested in Basket-ball | Programming | Technology
-- 🌱 I’m currently learning NodeJs | Restfull Api & Microservices
--     I have skills in NextJs | React | NodeJs | JavaScript | SQL| MariaDB
-- 📫 How to reach me :peterjp004@gmail.com | jeanpierrepeterson01@gmail.com
+# 👋 Hi, I'm \[Your Name] — Full-Stack Developer
 
-<!---
-peterjp001/peterjp001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate full-stack developer focused on building fast, maintainable, and scalable web applications.
+
+### 🚀 Tech Stack & Tools
+
+* **Frontend**: React, Next.js, TypeScript, Tailwind CSS, ShadCN UI
+* **Backend**: Node.js, Express, Prisma ORM
+* **Database**: PostgreSQL, MariaDB
+* **DevOps**: VPS (Hostinger), NGINX → Caddy (in progress), PM2
+* **Auth & API**: NextAuth, RESTful APIs
+* **State Management**: React Query, Zustand, Redux Toolkit
+* **Other**: Vercel (deployment), Git, Figma (for design prototyping)
+
+### 🛠️ Current Focus
+
+* Improving app performance by optimizing SQL queries, caching, and using server-side pagination/filtering/sorting
+* Simplifying UI/UX while maintaining design consistency with ShadCN UI and Tailwind
+* Architecting scalable folder and service structures in Next.js apps
+* Reusable React Query + SSR hydration setup
+* Making data-heavy components like dynamic tables and large dropdowns performant
+
+### 📌 Featured Project: PAPACH Autoparts (v2)
+
+A complete rework of an internal AutoParts Management system with:
+
+* Server-side powered tables
+* Modular and performant architecture
+* Reusable hooks and clean separation of logic
+* Optimized Next.js app using Prisma + React Query
+
+###
+
+---
