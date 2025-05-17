@@ -1,4 +1,4 @@
-# 👋 Hi, I'm \[Your Name] — Full-Stack Developer
+# 👋 Hi, I'm Louis Peterson — Full-Stack Developer
 
 I'm a passionate full-stack developer focused on building fast, maintainable, and scalable web applications.
 
