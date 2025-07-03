@@ -63,7 +63,7 @@ I’m always learning and refining my craft. Currently exploring:
 ## 📬 Let’s Connect
 
 - 📧 Email: [jeanpierrepeterson00@gmail.com]  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/peterjpp/))  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/peterjpp/)  
 
 ---
 
